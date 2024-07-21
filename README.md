@@ -46,7 +46,7 @@ The Advanced Document Analysis and Interaction Tool is a cutting-edge, AI-powere
 ## 🛠️ Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/advanced-document-analysis-tool.git
+git clone https://github.com/abdull2325/advanced-document-analysis-tool.git
 Copy
 2. Navigate to the project directory:
 cd advanced-document-analysis-tool
